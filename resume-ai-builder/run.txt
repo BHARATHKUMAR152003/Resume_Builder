@@ -1,0 +1,2 @@
+cd resume-ai-builder
+C:\Users\A552440\venvs\resumeai\Scripts\python.exe -m streamlit run app.py

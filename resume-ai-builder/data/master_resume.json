@@ -1,0 +1,187 @@
+{
+  "personal": {
+    "name": "Bharath Kumar S",
+    "email": "bharathkumar94492@gmail.com",
+    "phone": "+91 9845548338",
+    "location": "",
+    "linkedin": "linkedin.com/in/bharath-kumar-s-",
+    "github": "github.com/BHARATHKUMAR152003",
+    "portfolio": ""
+  },
+  "summary": "AI/ML Engineer and Software Developer with hands-on experience in Python, Java, machine learning, Generative AI, LLMs, RAG, and web application development. Experienced in developing application workflows, backend logic, REST APIs, and data-driven solutions, with exposure to FastAPI, LangChain, cloud platforms, databases, and modern software development tools.",
+  "skills": {
+    "programming_languages": [
+      "Java",
+      "Python",
+      "SQL",
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "ai_ml": [
+      "Large Language Models (LLMs)",
+      "LangChain",
+      "Vector Database",
+      "Prompt Engineering",
+      "AI Agents",
+      "Machine Learning",
+      "Generative AI"
+    ],
+    "deep_learning": [],
+    "nlp": [
+      "NLP"
+    ],
+    "web_development": [],
+    "frameworks": [
+      "FastAPI",
+      "Pandas",
+      "NumPy",
+      "Computer Vision",
+      "TensorFlow",
+      "Scikit-learn",
+      "Tkinter"
+    ],
+    "databases": [],
+    "cloud": [
+      "Azure",
+      "Azure App Services",
+      "Amazon Web Services (AWS)"
+    ],
+    "devops": [],
+    "tools": [
+      "Git",
+      "Docker",
+      "SQL Server",
+      "Power BI",
+      "REST API",
+      "Postman"
+    ],
+    "other": [
+      "Retrieval-Augmented Generation (RAG)",
+      "Agentic Workflows",
+      "OpenAI API"
+    ]
+  },
+  "experience": [
+    {
+      "id": "exp_7f8e5a42",
+      "company": "Volvo CE",
+      "title": "Web Application Developer",
+      "location": "Bengaluru, Karnataka",
+      "start_date": "Mar 2026",
+      "end_date": "Present",
+      "description": "Graduate Apprentice Trainee",
+      "bullets": [
+        "Contributing to the development and configuration of production-ready web applications, translating business requirements into functional application workflows and features.",
+        "Developed and configured application business logic and workflows, integrating frontend components, backend services, and data interactions to support operational requirements.",
+        "Analyzed application workflows and user interactions to identify usability issues and optimize the sequence of interface parameters for a smoother user experience."
+      ],
+      "technologies": []
+    },
+    {
+      "id": "exp_507ad5c2",
+      "company": "Colt Assist Pvt Ltd",
+      "title": "Artificial Intelligence and Machine Learning Intern",
+      "location": "Bengaluru, Karnataka",
+      "start_date": "Jan 2025",
+      "end_date": "May 2025",
+      "description": "",
+      "bullets": [
+        "Collaborated with cross-functional teams to gather technical requirements and develop analytics dashboards, providing actionable insights during project planning phases.",
+        "Participated in problem-solving discussions to build robust data preprocessing pipelines, ensuring seamless integration between raw data sources and predictive models.",
+        "Assisted in troubleshooting database integration issues, deploying reliable solutions for real-world software applications."
+      ],
+      "technologies": [
+        "Artificial Intelligence",
+        "Machine Learning"
+      ]
+    },
+    {
+      "id": "exp_1677b93a",
+      "company": "Varcons Technologies Pvt Ltd",
+      "title": "Full Stack Web Developer Intern",
+      "location": "Bengaluru, Karnataka",
+      "start_date": "Oct 2023",
+      "end_date": "Dec 2023",
+      "description": "",
+      "bullets": [
+        "Applied application design principles and Agile SDLC methodologies to build and configure responsive front-end web interfaces.",
+        "Communicated effectively with technical stakeholders and a team of 4 developers to ensure seamless integration of UI components with backend services.",
+        "Troubleshot and resolved application rendering issues, successfully optimizing site performance to decrease page load times by 20%."
+      ],
+      "technologies": [
+        "Agile"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj_e299db11",
+      "name": "Waste Detection Using Computer Vision",
+      "description": "Dec 2024",
+      "technologies": [
+        "Python",
+        "OpenCV",
+        "YOLO",
+        "Tkinter",
+        "Computer Vision"
+      ],
+      "responsibilities": [
+        "Built a custom system to detect and classify waste into categories utilizing YOLOv8 for real-time object detection.",
+        "Integrated an interactive desktop GUI using Tkinter with OpenCV for live visual feed processing and logic application."
+      ],
+      "results": "",
+      "achievements": []
+    },
+    {
+      "id": "proj_ccd500e2",
+      "name": "Stock Market Prediction",
+      "description": "Jun 2024",
+      "technologies": [
+        "Python",
+        "TensorFlow",
+        "Scikit-learn",
+        "Pandas",
+        "Machine Learning",
+        "Predictive Modeling",
+        "LSTM"
+      ],
+      "responsibilities": [
+        "Implemented a machine learning pipeline to forecast stock prices using historical market data and predictive modeling.",
+        "Applied models like Linear Regression and LSTM using scikit-learn and TensorFlow, visualizing prediction accuracy to compare model performance."
+      ],
+      "results": "",
+      "achievements": []
+    },
+    {
+      "id": "proj_b1adbc0d",
+      "name": "Railway Reservation System",
+      "description": "Oct 2023",
+      "technologies": [
+        "Java",
+        "SQL",
+        "MySQL",
+        "JDBC"
+      ],
+      "responsibilities": [
+        "Designed and configured an Object-Oriented backend application using Java, implementing complex logic to seamlessly route admin and passenger operations.",
+        "Troubleshot relational database connections and implemented stringent input validation to ensure high availability and software reliability."
+      ],
+      "results": "",
+      "achievements": []
+    }
+  ],
+  "education": [
+    {
+      "id": "edu_424a134e",
+      "degree": "Bachelor of Engineering in Artificial Intelligence and Machine Learning",
+      "institution": "Visvesvaraya Technological University",
+      "location": "Bengaluru",
+      "start_date": "Dec 2021",
+      "end_date": "Jun 2025",
+      "gpa": ""
+    }
+  ],
+  "certifications": [],
+  "achievements": []
+}
